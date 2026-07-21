@@ -28,7 +28,7 @@ const SNACKS = [
   },
   {
     id: "broodje-frikandel", price: "3,50 €", category: "frikandel", meats: ["porc", "boeuf"],
-    image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frikandel_broodje_aldi.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Frikandelbroodjes_in_plastic_wrappers,_ALDI_Winschoten_(2020).jpg",
     i18n: {
       fr: { name: "Broodje Frikandel", desc: "Un frikandel servi dans un petit pain." },
       en: { name: "Broodje Frikandel", desc: "A frikandel served in a bread roll." },
@@ -64,7 +64,7 @@ const SNACKS = [
   },
   {
     id: "kaaskroket", price: "2,70 €", category: "croquette", meats: ["vegetarien"],
-    image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Kees_Kroket_Breda_DSCF4853.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Broodje_kroket_-_Febo_-_03.JPG",
     i18n: {
       fr: { name: "Kaaskroket", desc: "Kroket fourré de fromage fondant à la place de la viande." },
       en: { name: "Kaaskroket", desc: "Kroket filled with melting cheese instead of meat." },
@@ -145,7 +145,7 @@ const SNACKS = [
   },
   {
     id: "gehaktstaaf", price: "3,20 €", category: "frikandel", meats: ["boeuf"],
-    image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Frituur_fries_frikandel_mayo_curry_ketchup.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Frikandel.JPG",
     i18n: {
       fr: { name: "Gehaktstaaf", desc: "Bâtonnet de viande hachée pané." },
       en: { name: "Gehaktstaaf", desc: "Breaded minced-meat stick." },
@@ -172,7 +172,7 @@ const SNACKS = [
   },
   {
     id: "sitostick", price: "3,50 €", category: "frikandel", meats: ["boeuf"],
-    image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Frikandel_special_chiang_mai.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Patat_speciaal_and_frikandel_speciaal.jpg",
     i18n: {
       fr: { name: "Sitostick", desc: "Bâtonnet pané de viande épicée (marque régionale)." },
       en: { name: "Sitostick", desc: "Breaded spiced meat stick (regional brand)." },
@@ -181,7 +181,7 @@ const SNACKS = [
   },
   {
     id: "mexicano", price: "3,40 €", category: "frikandel", meats: ["porc"],
-    image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Frikandel_(23658147312).jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frikandel_broodje_aldi.jpg",
     i18n: {
       fr: { name: "Mexicano", desc: "Saucisse épicée façon mexicaine, panée et frite." },
       en: { name: "Mexicano", desc: "Mexican-style spiced sausage, breaded and fried." },
